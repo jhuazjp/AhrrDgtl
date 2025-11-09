@@ -140,3 +140,15 @@ npx playwright show-report
 - Tiempo promedio de ejecución: < 2 minutos
 - Pruebas automatizadas: 20+
 - Prioridades cubiertas: P0, P1, P2
+
+## Mejoras de flujo 
+
+- Mejorar el responsive 
+- Mejorar el reporte de bugs 
+- Incluir casos mas detallados 
+
+## Mejoras Automatizacion 
+
+- Implementacion screemplay 
+- Implementar Gerkhin 
+- Implementacion POM 
